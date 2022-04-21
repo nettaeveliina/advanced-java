@@ -1,0 +1,17 @@
+.special{
+    font-size: 3em;
+    background-color: rgb(185, 152, 152);
+    display: inline-block;
+}
+
+.textcolor{
+    color: rgb(53, 115, 94);
+}
+
+.textbg{
+    background-color: bisque;
+}
+
+.invalid{
+    background-color: rgb(53, 115, 94);
+}
